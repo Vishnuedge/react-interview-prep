@@ -1,7 +1,7 @@
 import React from 'react';
-import ProductLists from './useCallback/UseCallback';
-import Parent from './useContext/Parent';
-import UseMemo from './useMemo/useMemo';
+import ProductLists from './hooks/useCallback/UseCallback';
+import UseMemo from './hooks/useMemo/useMemo';
+import Parent from './hooks/useContext/Parent'
 
 function App() {
   return (
